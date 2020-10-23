@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "dingding",
+      "upwd": "123456a",
+      "phone": 15536038319,
+      "major": "公司",
+      "major_name": "极客移动"
+    },
+    {
+      "id": 2,
+      "uname": "dangdang",
+      "upwd": "987654b",
+      "phone": 13478565478,
+      "major": "个人",
+      "major_name": "茬茬个人"
+    },
+    {
+      "id": 3,
+      "uname": "duangduang",
+      "upwd": "246810c",
+      "phone": 15986547895,
+      "major": "公司",
+      "major_name": "铭记"
+    },
+    {
+      "phone": "15365987452",
+      "major": "公司",
+      "major_name": "礼仪",
+      "id": 4
+    },
+    {
+      "phone": "15536038320",
+      "major": "个人",
+      "major_name": "htttd",
+      "id": 5
+    },
+    {
+      "phone": "15569874562",
+      "major": "个人",
+      "major_name": "廉耻",
+      "id": 6
+    },
+    {
+      "phone": "15346656323",
+      "major": "公司",
+      "major_name": "晓智",
+      "id": 7
+    }
+  ]
+}
